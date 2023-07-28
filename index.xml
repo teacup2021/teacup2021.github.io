@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Researcher</title>
+    <title>Peijun Sang</title>
     <link>https://teacup2021.github.io/</link>
-    <description>Recent content on Researcher</description>
+    <description>Recent content on Peijun Sang</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate><atom:link href="https://teacup2021.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -23,9 +23,11 @@ summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 2
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://teacup2021.github.io/about/</guid>
-      <description>About Me  This is a John Doe based California. You can find from the Ns.
-Research Interest Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis1. Mauris id urna ante.
-Fusce pharetra diam ac nisi aliquet, velegestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit2. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.</description>
+      <description>About Me  I am Peijun Sang, an assistant professor from the Department of Statistics and Actuarial Science at the University of Waterloo.
+Research Interest   Functional data analysis
+  Copula and dependence modelling
+  High-dimensional regression analysis
+  Publications Statistical Methodological paper  Sang, P., Wang, L., &amp;amp; Cao, J. (2016). Parametric Functional Principal Component Analysis. Biometrics, 73, 802-810. Joe, H., &amp;amp; Sang, P. (2016). Multivariate models for dependent clusters of variables with conditionalindependence given aggregation variables.</description>
     </item>
     
     <item>
@@ -34,10 +36,20 @@ Fusce pharetra diam ac nisi aliquet, velegestas ex iaculis. Pellentesque laoreet
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://teacup2021.github.io/contact/</guid>
-      <description> Email: foo@xyz.com Phone: +91-123123   Mailing Address  221B, Baker Street
-London
-United Kingdom
-  Social  Facebook Twitter Google+  </description>
+      <description> Email: peijun.sang@uwaterloo.ca Phone: +1-519-888-4567x36405   Mailing Address  M3 4004, University of Waterloo
+200 University Avenue West, Waterloo
+Ontario, Canada
+ </description>
+    </item>
+    
+    <item>
+      <title>Students</title>
+      <link>https://teacup2021.github.io/student/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://teacup2021.github.io/student/</guid>
+      <description>Ph.D Students
+ Jie Jian, co-supervised with Mu Zhu. Mingwei Xu, co-supervised with Samuel W.K. Wong. Chi Zhang, co-supervised with Yingli Qin.  </description>
     </item>
     
   </channel>
